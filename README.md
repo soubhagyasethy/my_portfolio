@@ -4,7 +4,7 @@ Hi! I'm Soubhagya!
 
 Welcome to my portfolio.
 
-Every day I'm learning things and keep updating my portfolio and adding new features to it.
+This is a simple portfolio website using basic HTML and CSS. Every day I'm learning things and keep updating my portfolio and adding new features to it.
 
 For now, I know:
 
@@ -14,4 +14,4 @@ For now, I know:
 
 3. CSS
 
-
+I have used various links from different websites to display photos and icons. At the end of the website (footer part) I have given links to my social media accounts. If you want to connect with me just click on the social media website icons, it will redirect you to that website. I have used the target attribute to the value of _blank, so that the link will open in a new window or tab.
